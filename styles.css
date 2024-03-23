@@ -1,0 +1,71 @@
+body {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+.container {
+  background-color: #252525;
+}
+
+h1,
+.lead,
+.fw-light {
+  color: #e39ff6;
+}
+
+.form-control,
+.selectpicker {
+  background-color: #252525;
+  color: #ffffff;
+}
+
+/* General table styles */
+.table {
+  width: 100%;
+  color: #f8f9fa; /* Light text */
+  background-color: #343a40; /* Dark background */
+  border-collapse: collapse;
+}
+
+.table-responsive {
+  background-color: #252525;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table th {
+  background-color: #e39ff6;
+  color: #121212;
+  padding: 10px;
+  text-align: left;
+}
+
+.table td {
+  background-color: #121212;
+  color: #ffffff;
+  padding: 10px;
+}
+
+.btn {
+  background-color: #e39ff6;
+  color: #121212;
+  border: none;
+}
+
+.btn:hover {
+  background-color: #ffffff;
+  color: #121212;
+}
+
+.dropdown-menu {
+  background-color: #252525;
+}
+
+.dropdown-item {
+  color: #ffffff;
+}
