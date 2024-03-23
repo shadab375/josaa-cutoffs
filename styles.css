@@ -13,10 +13,13 @@ h1,
   color: #e39ff6;
 }
 
-.form-control,
+#rank:focus {
+  color: #000000; /* black */
+}
+
 .selectpicker {
   background-color: #252525;
-  color: #ffffff;
+  color: #e39ff6;
 }
 
 /* General table styles */
